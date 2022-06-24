@@ -3,6 +3,7 @@ A New Framework for Domain Adaptive Semantic Segmentation via Semantic Prototype
 
 ## Update
 **2021/11/25: arXiv version of [SPCL](https://arxiv.org/abs/2111.12358) is available.**
+
 **2022/06/24: Code is released.**
 
 If you find it useful for your research, please cite 
